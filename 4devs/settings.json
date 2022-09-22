@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Test",
+    "route": "Test",
+    "icon": {
+      "name": "fact-check",
+      "fontFamily": "MaterialIcons"
+    }
+  }
+]
