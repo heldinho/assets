@@ -1,18 +1,1 @@
-[
-  {
-    "title": "NPS Test",
-    "route": "FeedBack",
-    "icon": {
-      "name": "fact-check",
-      "fontFamily": "MaterialIcons"
-    }
-  },
-  {
-    "title": "Test 2",
-    "route": "FeedBack",
-    "icon": {
-      "name": "fact-check",
-      "fontFamily": "MaterialIcons"
-    }
-  }
-]
+[]
