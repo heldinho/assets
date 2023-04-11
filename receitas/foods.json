@@ -9,50 +9,57 @@
     "video": "y9yKuT1m9LI",
     "ingredients": [
       {
-        "id": "1",
-        "name": "Carne Patinho",
-        "amount": "400g"
-      },
-      {
-        "id": "2",
-        "name": "Arroz branco",
-        "amount": "2 xícaras"
-      },
-      {
-        "id": "3",
-        "name": "Molho de tomate",
-        "amount": "1 pacote 150g"
-      },
-      {
-        "id": "4",
-        "name": "Creme de leite",
-        "amount": "1 caixa"
+        "title": "",
+        "list": [
+          {
+            "id": "1",
+            "text": "400g carne patinho"
+          },
+          {
+            "id": "2",
+            "text": "2 xícaras de arroz branco"
+          },
+          {
+            "id": "3",
+            "text": "1 pacote 150g de molho de tomate"
+          },
+          {
+            "id": "4",
+            "text": "1 caixa de creme de leite"
+          }
+        ]
       }
     ],
     "instructions": [
       {
         "id": "1",
-        "text": "Em uma panela, misture a carne, o alho, a maionese, o sal e a pimenta."
-      },
-      {
-        "id": "2",
-        "text": "Em uma frigideira grande, derreta a manteiga e doure a cebola."
-      },
-      {
-        "id": "3",
-        "text": "Junte o frango temperado até que esteja dourado."
-      },
-      {
-        "id": "4",
-        "text": "Adicione os cogumelos, o ketchup e a mostarda."
-      },
-      {
-        "id": "5",
-        "text": "Incorpore o creme de leite e retire do fogo antes de ferver."
-      },
-      {
-        "id": "6",
-        "text": "Sirva com arroz branco e batata palha."
+        "name": "Único",
+        "instruction": [
+          {
+            "id": "1",
+            "text": "Em uma panela, misture a carne, o alho, a maionese, o sal e a pimenta."
+          },
+          {
+            "id": "2",
+            "text": "Em uma frigideira grande, derreta a manteiga e doure a cebola."
+          },
+          {
+            "id": "3",
+            "text": "Junte o frango temperado até que esteja dourado."
+          },
+          {
+            "id": "4",
+            "text": "Adicione os cogumelos, o ketchup e a mostarda."
+          },
+          {
+            "id": "5",
+            "text": "Incorpore o creme de leite e retire do fogo antes de ferver."
+          },
+          {
+            "id": "6",
+            "text": "Sirva com arroz branco e batata palha."
+          }
+        ]
       }
     ]
   },
@@ -66,55 +73,61 @@
     "video": "y9yKuT1m9LI",
     "ingredients": [
       {
-        "id": "1",
-        "name": "Frango (patinho)",
-        "amount": "700g"
-      },
-      {
-        "id": "2",
-        "name": "Arroz branco",
-        "amount": "2 xícaras"
-      },
-      {
-        "id": "3",
-        "name": "Molho de tomate",
-        "amount": "1 pacote 150g"
-      },
-      {
-        "id": "4",
-        "name": "Creme de leite",
-        "amount": "1 caixa"
-      },
-      {
-        "id": "5",
-        "name": "Ketchup",
-        "amount": "1 colher (chá)"
+        "title": "",
+        "list": [
+          {
+            "id": "1",
+            "text": "700g frango (patinho)"
+          },
+          {
+            "id": "2",
+            "text": "2 xícaras de arroz branco"
+          },
+          {
+            "id": "3",
+            "text": "1 pacote 150g de molho de tomate"
+          },
+          {
+            "id": "4",
+            "text": "1 caixa de creme de leite"
+          },
+          {
+            "id": "5",
+            "text": "1 colher (chá) ketchup"
+          }
+        ]
       }
     ],
     "instructions": [
       {
         "id": "1",
-        "text": "Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta."
-      },
-      {
-        "id": "2",
-        "text": "Em uma frigideira grande, derreta a manteiga e doure a cebola."
-      },
-      {
-        "id": "3",
-        "text": "Junte o frango temperado até que esteja dourado."
-      },
-      {
-        "id": "4",
-        "text": "Adicione os cogumelos, o ketchup."
-      },
-      {
-        "id": "5",
-        "text": "Incorpore o creme de leite e retire do fogo antes de ferver."
-      },
-      {
-        "id": "6",
-        "text": "Sirva com arroz branco e batata palha."
+        "name": "Único",
+        "instruction": [
+          {
+            "id": "1",
+            "text": "Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta."
+          },
+          {
+            "id": "2",
+            "text": "Em uma frigideira grande, derreta a manteiga e doure a cebola."
+          },
+          {
+            "id": "3",
+            "text": "Junte o frango temperado até que esteja dourado."
+          },
+          {
+            "id": "4",
+            "text": "Adicione os cogumelos, o ketchup."
+          },
+          {
+            "id": "5",
+            "text": "Incorpore o creme de leite e retire do fogo antes de ferver."
+          },
+          {
+            "id": "6",
+            "text": "Sirva com arroz branco e batata palha."
+          }
+        ]
       }
     ]
   },
@@ -128,60 +141,67 @@
     "video": "AexaqeVdkF0",
     "ingredients": [
       {
-        "id": "1",
-        "name": "Massa de pizza",
-        "amount": "1"
-      },
-      {
-        "id": "2",
-        "name": "Molho de tomate",
-        "amount": "1 pacote 250g"
-      },
-      {
-        "id": "3",
-        "name": "Queijo",
-        "amount": "350g"
-      },
-      {
-        "id": "4",
-        "name": "Calabresa",
-        "amount": "300g"
-      },
-      {
-        "id": "5",
-        "name": "Orégano",
-        "amount": "À gosto"
-      },
-      {
-        "id": "6",
-        "name": "Cebola",
-        "amount": "À gosto"
+        "title": "",
+        "list": [
+          {
+            "id": "1",
+            "text": "1 massa de pizza"
+          },
+          {
+            "id": "2",
+            "text": "1 pacote 250g molho de tomate"
+          },
+          {
+            "id": "3",
+            "text": "350g queijo"
+          },
+          {
+            "id": "4",
+            "text": "300g calabresa"
+          },
+          {
+            "id": "5",
+            "text": "Orégano à gosto"
+          },
+          {
+            "id": "6",
+            "text": "Cebola à gosto",
+            "name": "Cebola",
+            "amount": "À gosto"
+          }
+        ]
       }
     ],
     "instructions": [
       {
         "id": "1",
-        "text": "Passe o molho de toma em cima da massa com uma colher."
-      },
-      {
-        "id": "2",
-        "text": "Coloque o queijo sobre toda massa."
-      },
-      {
-        "id": "3",
-        "text": "Adicione a calabesa sobre o queijo."
-      },
-      {
-        "id": "4",
-        "text": "Coloque as cebolas cortadas em rodelas sobre a pizza."
-      },
-      {
-        "id": "5",
-        "text": "Adicione orégano (à gosto)."
-      },
-      {
-        "id": "6",
-        "text": "Leve ao forno quente em torno de 15 a 20 minutos."
+        "name": "Único",
+        "instruction": [
+          {
+            "id": "1",
+            "text": "Passe o molho de toma em cima da massa com uma colher."
+          },
+          {
+            "id": "2",
+            "text": "Coloque o queijo sobre toda massa."
+          },
+          {
+            "id": "3",
+            "text": "Adicione a calabesa sobre o queijo."
+          },
+          {
+            "id": "4",
+            "text": "Coloque as cebolas cortadas em rodelas sobre a pizza."
+          },
+          {
+            "id": "5",
+            "text": "Adicione orégano (à gosto)."
+          },
+          {
+            "id": "6",
+            "text": "Leve ao forno quente em torno de 15 a 20 minutos."
+          }
+        ]
       }
     ]
   },
@@ -195,60 +215,65 @@
     "video": "CsZv6M3rmPs",
     "ingredients": [
       {
-        "id": "1",
-        "name": "Farinha de trigo",
-        "amount": "1kg"
-      },
-      {
-        "id": "2",
-        "name": "Óleo",
-        "amount": "1/2 xícara (chá)"
-      },
-      {
-        "id": "3",
-        "name": "Sal",
-        "amount": "1 colher sopa"
-      },
-      {
-        "id": "4",
-        "name": "Vinagre",
-        "amount": "1 colher (chá)"
-      },
-      {
-        "id": "5",
-        "name": "Ovo",
-        "amount": "1"
-      },
-      {
-        "id": "6",
-        "name": "Água",
-        "amount": "250 ml"
+        "title": "",
+        "list": [
+          {
+            "id": "1",
+            "text": "1kg farinha de trigo"
+          },
+          {
+            "id": "2",
+            "text": "1/2 xícara (chá) de óleo"
+          },
+          {
+            "id": "3",
+            "text": "1 colher sopa de sal"
+          },
+          {
+            "id": "4",
+            "text": "1 colher (chá) de vinagre"
+          },
+          {
+            "id": "5",
+            "text": "1 ovo"
+          },
+          {
+            "id": "6",
+            "text": "250ml água"
+          }
+        ]
       }
     ],
     "instructions": [
       {
         "id": "1",
-        "text": "Misture os ingredientes em uma tigela e amasse com as mãos."
-      },
-      {
-        "id": "2",
-        "text": "Sove bem a massa sobre uma superfície lisa enfarinhada."
-      },
-      {
-        "id": "3",
-        "text": "Utilize um rolo para esticar a massa e deixá-la na espessura desejada."
-      },
-      {
-        "id": "4",
-        "text": "Corte a massa no tamanho que quiser fazer os pastéis."
-      },
-      {
-        "id": "5",
-        "text": "Recheie de acordo com a sua preferência."
-      },
-      {
-        "id": "6",
-        "text": "Frite em óleo bem quente."
+        "name": "Único",
+        "instruction": [
+          {
+            "id": "1",
+            "text": "Misture os ingredientes em uma tigela e amasse com as mãos."
+          },
+          {
+            "id": "2",
+            "text": "Sove bem a massa sobre uma superfície lisa enfarinhada."
+          },
+          {
+            "id": "3",
+            "text": "Utilize um rolo para esticar a massa e deixá-la na espessura desejada."
+          },
+          {
+            "id": "4",
+            "text": "Corte a massa no tamanho que quiser fazer os pastéis."
+          },
+          {
+            "id": "5",
+            "text": "Recheie de acordo com a sua preferência."
+          },
+          {
+            "id": "6",
+            "text": "Frite em óleo bem quente."
+          }
+        ]
       }
     ]
   },
@@ -262,59 +287,65 @@
     "video": "0MJep0plDlw",
     "ingredients": [
       {
-        "id": "1",
-        "name": "Leite condensado",
-        "amount": "1 lata"
-      },
-      {
-        "id": "2",
-        "name": "Leite",
-        "amount": "1 (mesmo tamanho do leite condesado)"
-      },
-      {
-        "id": "3",
-        "name": "Ovos",
-        "amount": "3 ovos inteiros"
-      },
-      {
-        "id": "4",
-        "name": "Açúcar",
-        "amount": "1 xícara (chá)"
-      },
-      {
-        "id": "5",
-        "name": "Água",
-        "amount": "1/2 xícara"
+        "title": "",
+        "list": [
+          {
+            "id": "1",
+            "text": "1 lata de leite condensado"
+          },
+          {
+            "id": "2",
+            "text": "1 (mesmo tamanho de leite condensado) de leite"
+          },
+          {
+            "id": "3",
+            "text": "3 ovos inteiros"
+          },
+          {
+            "id": "4",
+            "text": "1 xícara (chá) açúcar"
+          },
+          {
+            "id": "5",
+            "text": "1/2 xícara água"
+          }
+        ]
       }
     ],
     "instructions": [
       {
         "id": "1",
-        "text": "Primeiro, bata bem os ovos no liquidificador."
-      },
-      {
-        "id": "2",
-        "text": "Acrescente o leite condensado e o leite, e bata novamente."
-      },
-      {
-        "id": "3",
-        "text": "Derreta o açúcar na panela até ficar moreno, acrescente a água e deixe engrossar."
-      },
-      {
-        "id": "4",
-        "text": "Coloque em uma forma redonda e despeje a massa do pudim por cima."
-      },
-      {
-        "id": "5",
-        "text": "Asse em forno médio por 45 minutos, com a assadeira redonda dentro de uma maior com água."
-      },
-      {
-        "id": "6",
-        "text": "Espete um garfo para ver se está bem assado."
-      },
-      {
-        "id": "7",
-        "text": "Deixe esfriar e desenforme."
+        "name": "Único",
+        "instruction": [
+          {
+            "id": "1",
+            "text": "Primeiro, bata bem os ovos no liquidificador."
+          },
+          {
+            "id": "2",
+            "text": "Acrescente o leite condensado e o leite, e bata novamente."
+          },
+          {
+            "id": "3",
+            "text": "Derreta o açúcar na panela até ficar moreno, acrescente a água e deixe engrossar."
+          },
+          {
+            "id": "4",
+            "text": "Coloque em uma forma redonda e despeje a massa do pudim por cima."
+          },
+          {
+            "id": "5",
+            "text": "Asse em forno médio por 45 minutos, com a assadeira redonda dentro de uma maior com água."
+          },
+          {
+            "id": "6",
+            "text": "Espete um garfo para ver se está bem assado."
+          },
+          {
+            "id": "7",
+            "text": "Deixe esfriar e desenforme."
+          }
+        ]
       }
     ]
   },
@@ -328,51 +359,57 @@
     "video": "EPD2igRTnfw",
     "ingredients": [
       {
-        "id": "1",
-        "name": "File peito de frango",
-        "amount": "400g"
-      },
-      {
-        "id": "2",
-        "name": "Orégano",
-        "amount": "4 colheres chá"
-      },
-      {
-        "id": "3",
-        "name": "Catupiry",
-        "amount": "250g"
-      },
-      {
-        "id": "4",
-        "name": "Queijo mussarela",
-        "amount": "400g"
-      },
-      {
-        "id": "5",
-        "name": "Sal",
-        "amount": "à gosto"
+        "title": "",
+        "list": [
+          {
+            "id": "1",
+            "text": "400g file peito de frango"
+          },
+          {
+            "id": "2",
+            "text": "4 colheres (chá) orégano"
+          },
+          {
+            "id": "3",
+            "text": "250g catupiry"
+          },
+          {
+            "id": "4",
+            "text": "400g quijo mussarela"
+          },
+          {
+            "id": "5",
+            "text": "Sal à gosto"
+          }
+        ]
       }
     ],
     "instructions": [
       {
         "id": "1",
-        "text": "Cozinhe o Filé de peito DaGranja Seara em uma panela com água e sal. Quando estiver pronto, retire, desfie e tempere com sal, pimenta e salsinha."
-      },
-      {
-        "id": "2",
-        "text": "Espalhe o molho de tomate na massa de pizza cobrindo todo o disco."
-      },
-      {
-        "id": "3",
-        "text": "Espalhe o frango desfiado pela pizza."
-      },
-      {
-        "id": "4",
-        "text": "Coloque o catupiry em um saco de confeiteiro ou um saco plástico com furo na ponta e espalhe o queijo pela pizza. Você pode distribuir em espiral ou em linhas horizontais e verticais."
-      },
-      {
-        "id": "5",
-        "text": "Leve a pizza de frango com catupiry ao forno preaquecido até a massa dourar levemente embaixo e o catupiry derreter."
+        "name": "Único",
+        "instruction": [
+          {
+            "id": "1",
+            "text": "Cozinhe o Filé de peito DaGranja Seara em uma panela com água e sal. Quando estiver pronto, retire, desfie e tempere com sal, pimenta e salsinha."
+          },
+          {
+            "id": "2",
+            "text": "Espalhe o molho de tomate na massa de pizza cobrindo todo o disco."
+          },
+          {
+            "id": "3",
+            "text": "Espalhe o frango desfiado pela pizza."
+          },
+          {
+            "id": "4",
+            "text": "Coloque o catupiry em um saco de confeiteiro ou um saco plástico com furo na ponta e espalhe o queijo pela pizza. Você pode distribuir em espiral ou em linhas horizontais e verticais."
+          },
+          {
+            "id": "5",
+            "text": "Leve a pizza de frango com catupiry ao forno preaquecido até a massa dourar levemente embaixo e o catupiry derreter."
+          }
+        ]
       }
     ]
   },
@@ -386,57 +423,157 @@
     "video": "1K0s2Gfq860",
     "ingredients": [
       {
-        "id": "1",
-        "name": "Farinha de trigo",
-        "amount": "3 xícaras (chá)"
-      },
-      {
-        "id": "2",
-        "name": "Manteiga",
-        "amount": "1 xícara (chá)"
-      },
-      {
-        "id": "3",
-        "name": "Açúcar",
-        "amount": "2 xícaras (chá)"
-      },
-      {
-        "id": "4",
-        "name": "Ovos",
-        "amount": "4"
-      },
-      {
-        "id": "5",
-        "name": "Leite",
-        "amount": "1 xícara (chá)"
-      },
-      {
-        "id": "6",
-        "name": "Fermento em pó",
-        "amount": "2 colheres (chá)"
-      },
-      {
-        "id": "7",
-        "name": "Pitada de sal",
-        "amount": "1 (uma)"
+        "title": "",
+        "list": [
+          {
+            "id": "1",
+            "text": "3 xícaras (chá) farinha de trigo"
+          },
+          {
+            "id": "2",
+            "text": "1 xícara (chá) manteiga"
+          },
+          {
+            "id": "3",
+            "text": "2 xícaras (chá) açúcar"
+          },
+          {
+            "id": "4",
+            "text": "4 ovos"
+          },
+          {
+            "id": "5",
+            "text": "1 xícara (chá) de leite"
+          },
+          {
+            "id": "6",
+            "text": "2 colheres (chá) fermento em pó"
+          },
+          {
+            "id": "7",
+            "text": "1 pitada de sal"
+          }
+        ]
       }
     ],
     "instructions": [
       {
         "id": "1",
-        "text": "Na batedeira, bata a manteiga até que ficar esbranquiçada. Adicione aos poucos o açúcar. Bata por cerca de 5 minutos."
+        "name": "Único",
+        "instruction": [
+          {
+            "id": "1",
+            "text": "Na batedeira, bata a manteiga até que ficar esbranquiçada. Adicione aos poucos o açúcar. Bata por cerca de 5 minutos."
+          },
+          {
+            "id": "2",
+            "text": "Junte os ovos, um a um, batendo sempre. Acrescente o sal e, em seguida, a Farinha de Trigo alternando com o leite. Desligue a batedeira e, por último, misture o fermento delicadamente com uma espátula. Transfira para a forma untada e enfarinhada."
+          },
+          {
+            "id": "3",
+            "text": "Leve ao forno preaquecido a 180°C e deixe assar por aproximadamente 40 minutos ou até que faça o teste de espetar o palito no centro do bolo e ele saia limpo."
+          },
+          {
+            "id": "4",
+            "text": "Desenforme e sirva."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ac7c088b-004f-4c87-9853-8b2052cc83c1",
+    "name": "Bolo de Chocolate",
+    "category": "sobremesas",
+    "total_ingredients": "7",
+    "time": 60,
+    "cover": "https://raw.githubusercontent.com/heldinho/assets/main/receitas/images/bolo-chocolate.png",
+    "video": "o1bGojqFtfI",
+    "ingredients": [
+      {
+        "title": "Massa",
+        "list": [
+          {
+            "id": "1",
+            "text": "1 pacote de bolo chocolate"
+          }
+        ]
+      },
+      {
+        "title": "Recheio",
+        "list": [
+          {
+            "id": "1",
+            "text": "2 latas de leite condensado"
+          },
+          {
+            "id": "2",
+            "text": "1 caixa de creme de leite"
+          },
+          {
+            "id": "3",
+            "text": "2 xícaras (chá) chocolate meio amargo picado"
+          }
+        ]
+      },
+      {
+        "title": "Cobertura",
+        "list": [
+          {
+            "id": "1",
+            "text": "2 caixas de creme de leite"
+          },
+          {
+            "id": "2",
+            "text": "2 xícaras (chá) de chocolate meio amargo picado"
+          },
+          {
+            "id": "3",
+            "text": "1/2 xícara (chá) de chocolate meio amargo"
+          }
+        ]
+      }
+    ],
+    "instructions": [
+      {
+        "id": "1",
+        "name": "Para a Massa",
+        "instruction": [
+          {
+            "id": "1",
+            "text": "Preaqueça o forno a 180ºC. Prepare a massa e asse o bolo, conforme as instruções da embalagem."
+          }
+        ]
       },
       {
         "id": "2",
-        "text": "Junte os ovos, um a um, batendo sempre. Acrescente o sal e, em seguida, a Farinha de Trigo alternando com o leite. Desligue a batedeira e, por último, misture o fermento delicadamente com uma espátula. Transfira para a forma untada e enfarinhada."
+        "name": "Para o Recheio",
+        "instruction": [
+          {
+            "id": "1",
+            "text": "Em uma panela média, junte todos os ingredientes do recheio e leve ao fogo baixo. Cozinhe, mexendo sempre, até desgrudar do fundo da panela e encorpar levemente. Reserve e deixe esfriar."
+          }
+        ]
       },
       {
         "id": "3",
-        "text": "Leve ao forno preaquecido a 180°C e deixe assar por aproximadamente 40 minutos ou até que faça o teste de espetar o palito no centro do bolo e ele saia limpo."
+        "name": "Para a Cobertura",
+        "instruction": [
+          {
+            "id": "1",
+            "text": "Derreta o chocolate em banho-maria e adicione o creme de leite. Misture até ficar um creme bem liso e homogêneo. Reserve."
+          }
+        ]
       },
       {
         "id": "4",
-        "text": "Desenforme e sirva."
+        "name": "Para a Montagem",
+        "instruction": [
+          {
+            "id": "1",
+            "text": "Desenforme o bolo quando estiver frio e corte ao meio. Adicione o recheio, tampe com a outra metade da massa. Espalhe cobertura com uma espátula em todo o bolo. Sirva em seguida."
+          }
+        ]
       }
     ]
   }
