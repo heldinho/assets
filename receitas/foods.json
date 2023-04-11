@@ -375,5 +375,69 @@
         "text": "Leve a pizza de frango com catupiry ao forno preaquecido até a massa dourar levemente embaixo e o catupiry derreter."
       }
     ]
+  },
+  {
+    "id": "ab9187fb-ba16-48a6-b6d5-435036a6d3c1",
+    "name": "Bolo de Farinha de Trigo",
+    "category": "sobremesas",
+    "total_ingredients": "7",
+    "time": 60,
+    "cover": "",
+    "video": "1K0s2Gfq860",
+    "ingredients": [
+      {
+        "id": "1",
+        "name": "Farinha de trigo",
+        "amount": "3 xícaras (chá)"
+      },
+      {
+        "id": "2",
+        "name": "Manteiga",
+        "amount": "1 xícara (chá)"
+      },
+      {
+        "id": "3",
+        "name": "Açúcar",
+        "amount": "2 xícaras (chá)"
+      },
+      {
+        "id": "4",
+        "name": "Ovos",
+        "amount": "4"
+      },
+      {
+        "id": "5",
+        "name": "Leite",
+        "amount": "1 xícara (chá)"
+      },
+      {
+        "id": "6",
+        "name": "Fermento em pó",
+        "amount": "2 colheres (chá)"
+      },
+      {
+        "id": "7",
+        "name": "Pitada de sal",
+        "amount": "1 (uma)"
+      }
+    ],
+    "instructions": [
+      {
+        "id": "1",
+        "text": "Na batedeira, bata a manteiga até que ficar esbranquiçada. Adicione aos poucos o açúcar. Bata por cerca de 5 minutos."
+      },
+      {
+        "id": "2",
+        "text": "Junte os ovos, um a um, batendo sempre. Acrescente o sal e, em seguida, a Farinha de Trigo alternando com o leite. Desligue a batedeira e, por último, misture o fermento delicadamente com uma espátula. Transfira para a forma untada e enfarinhada."
+      },
+      {
+        "id": "3",
+        "text": "Leve ao forno preaquecido a 180°C e deixe assar por aproximadamente 40 minutos ou até que faça o teste de espetar o palito no centro do bolo e ele saia limpo."
+      },
+      {
+        "id": "4",
+        "text": "Desenforme e sirva."
+      }
+    ]
   }
 ]
